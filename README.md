@@ -1,1 +1,1 @@
-# Veeva Java Practice 
+# Java Practice 
